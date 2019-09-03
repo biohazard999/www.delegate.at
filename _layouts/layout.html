@@ -2,6 +2,9 @@
 <html lang="en">
 	{% include head.html %}
 	<body>
-        {{ content }}
+        {% include header.html %}
+        <div class="main-content-wrapper">
+            {{ content }}
+        </div>
 	</body>
 </html>
