@@ -26,9 +26,9 @@ author-email: m.grundner@delegate.at
 author-github: biohazard999
 disqus-shortname: delegateat
 main-url: https://www.delegate.at
-site-name: blog.delegate.at
-feed-name: blog.delegate.at
-site-url: https://blog.delegate.at
-version: 0.1.0+218
-commit: fe3a22bc9c17592f6122b8f5438efeb9ba2807b6
-last-update: 2019-08-08
+site-name: www.delegate.at
+feed-name: www.delegate.at
+site-url: https://www.delegate.at
+version: 0.1.0+0
+commit: bb6a996a5f612474d01dd092d4023358a553ee19
+last-update: 2019-09-03

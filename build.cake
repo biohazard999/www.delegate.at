@@ -1,6 +1,6 @@
 #tool "nuget:?package=GitVersion.CommandLine&version=5.0.1"
-#addin nuget:?package=Cake.Yaml
-#addin nuget:?package=YamlDotNet&version=5.2.1
+#addin "nuget:?package=Cake.Yaml&version=3.1.1"
+#addin "nuget:?package=YamlDotNet&version=6.1.2"
 
 using YamlDotNet.Serialization;
 
