@@ -1,0 +1,34 @@
+pretzel:
+  engine: liquid
+exclude:
+- publish.ps1
+- build.cake
+- build.ps1
+- tools\
+- .vscode\
+- .git\
+- .git
+- .gitignore
+- add-post.cmd
+- add-tag.cmd
+- add-draft.cmd
+- taste.cmd
+- taste-drafts.cmd
+- git-clean.cmd
+- build.bat
+- cake.config
+- tests\
+include:
+- downloads
+- .htaccess
+author: Manuel Grundner
+author-email: m.grundner@delegate.at
+author-github: biohazard999
+disqus-shortname: delegateat
+main-url: https://www.delegate.at
+site-name: blog.delegate.at
+feed-name: blog.delegate.at
+site-url: https://blog.delegate.at
+version: 0.1.0+218
+commit: fe3a22bc9c17592f6122b8f5438efeb9ba2807b6
+last-update: 2019-08-08
